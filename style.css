@@ -2,3 +2,13 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+@font-face {
+  font-family: main;
+  src: url(DIN\ Next\ LT\ Arabic\ Medium.ttf);
+}
+
+h2 {
+  font-family: main;
+  color: rgb(128, 8, 8);
+}
